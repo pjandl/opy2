@@ -1,5 +1,5 @@
 <h1>Oficina Python 2 (Intermediário)</h1>
-<img src='https://github.com/pjandl/opy2/blob/master/repo-cover-opy2.png?raw=true' alt='![Oficina Python 2 (intermediário)]' />
+<img src='https://raw.githubusercontent.com/pjandl/opy2/master/repo-cover-opy2.png' alt='![Oficina Python 2 (intermediário)]' />
 <p>Neste repositório estão disponíveis os materiais de apoio da Oficina de Python 2 (intermediário), que são:</p>
 <ul>
 <li>código-fonte dos exemplos;</li>

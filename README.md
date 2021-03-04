@@ -19,6 +19,7 @@
 <li>Reduce</li>
 <li>Filter</li>
 <li>Tratamento de exceções</li>
+<li>Lançamento de exceções</li>
 <li></li>
 </ul>
 <hr/>

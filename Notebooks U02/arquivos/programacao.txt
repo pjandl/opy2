@@ -1,0 +1,10 @@
+Habilidades da Programacao
+
+Programar e uma atividade destinada a resolver problemas.
+Entao, para desenvolvermos programas para computadores, a despeito da linguagem de programacao, e necessario combinarmos cinco habilidades fundamentais que permitem construir uma solucao computacional para o problema que pretendemos resolver. Estas habilidades sao:
+
+- a computacao,
+- a sequenciacao,
+- a repeticao,
+- a decisao (ou selecao),
+- e a modularizacao.

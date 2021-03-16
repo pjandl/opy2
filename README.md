@@ -1,5 +1,5 @@
 <h1>Oficina Python 2 (Intermediário)</h1>
-<img src='https://github.com/pjandl/opy2/blob/master/repo-cover-opy2.png?raw=true' alt='![Oficina Python 2 (intermediário)]' />
+<img src='https://github.com/pjandl/opy2/blob/main/repo-cover-opy2.png?raw=true' alt='![Oficina Python 2 (intermediário)]' />
 <p>Neste repositório estão disponíveis os materiais de apoio da Oficina de Python 2 (intermediário), que são:</p>
 <ul>
 <li>código-fonte dos exemplos;</li>
@@ -42,8 +42,6 @@
 <li>Métodos especiais</li>
 <li>Herança</li>
 <li>Aplicações da OO</li>
-<li></li>
-<li></li>
 </ul>
 <hr/>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está licenciada com uma<br/>Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.

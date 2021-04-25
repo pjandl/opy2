@@ -1,6 +1,6 @@
 from csv import reader
 
-nome_arquivo = 'tabela.csv'
+nome_arquivo = 'arquivos/tabela.csv'
 
 # Lê arquivo csv como um lista de listas
 with open(nome_arquivo, 'r') as file_reader:

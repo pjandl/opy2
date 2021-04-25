@@ -1,0 +1,6 @@
+Coluna;Descricao;Unidade;
+Precip_Tot;PRECIPITACAO TOTAL;mm;
+Temp_Max;TEMPERATURA MAXIMA;°C;
+Temp_Med;TEMPERATURA MEDIA;°C;
+Temp_Min;TEMPERATURA MINIMA;°C;
+Umid_Relat;UMIDADE RELATIVA DO AR;%;

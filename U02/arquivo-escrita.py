@@ -1,5 +1,6 @@
 # Abertura de arquivo em modo w (escrita), arquivo não precisa existir
-arquivo2 = open("opy2-contagem.txt", "w")
+arquivo2 = open("arquivos/opy2-contagem.txt", "w")
+print(arquivo2)
 
 # write grava/escreve (qualquer) conteúdo no arquivo.
 arquivo2.write("Contagem progressiva\n")

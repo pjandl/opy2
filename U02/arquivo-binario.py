@@ -1,6 +1,6 @@
 import struct
 
-nome_arquivo = 'red.png'
+nome_arquivo = 'arquivos/red.png'
 i = 0
 with open(nome_arquivo, 'rb') as f:
     byte = f.read(1)

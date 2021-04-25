@@ -1,5 +1,5 @@
 # Abertura de arquivo em modo r (leitura), exige que o arquivo exista
-filename = "/Users/Jandl/Desktop/Oficina Python/opy2/Notebooks U02/arquivos/programacao.txt"
+filename = "arquivos/programacao.txt"
 arquivo1 = open(filename, "r")
 
 # Leitura e exibição do conteúdo do arquivo

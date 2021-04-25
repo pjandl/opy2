@@ -1,7 +1,8 @@
 import random as rnd
 
 # Abertura de arquivo em modo a (anexacao), arquivo não precisa existir
-arquivo2 = open("opy2-contagem.txt", "a")
+arquivo2 = open("arquivos/opy2-contagem.txt", "a")
+print(arquivo2)
 
 # write grava/escreve (qualquer) conteúdo no arquivo.
 arquivo2.write("-- CONTINUACAO -\n")

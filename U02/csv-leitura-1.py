@@ -1,5 +1,5 @@
 # Leitura de arquivo CSV é como leitura de arquivos de texto.
-nome_arquivo = 'tabela.csv'
+nome_arquivo = 'arquivos/tabela.csv'
 
 with open(nome_arquivo, 'rt') as f:
     # leitura do arquivo

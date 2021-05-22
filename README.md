@@ -6,9 +6,13 @@
     <li>listas de exercícios resolvidas;</li>
     <li>Jupyter notebooks com fragmentos de código comentados.</li>
 </ul>
-<p>Os Jupyter notebooks pode ser experimentados em:<br/>
-<a href='https://mybinder.org/v2/gh/pjandl/opy2/HEAD'><img src='https://mybinder.org/badge_logo.svg' /></a></p>
-
+<p>Os Jupyter notebooks pode ser experimentados com:</p>
+<p><a href='https://mybinder.org/v2/gh/pjandl/opy2/HEAD'>
+    <img src='https://mybinder.org/badge_logo.svg' alt='Abrir no Binder'/>
+    </a></p>
+<p><a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab"/>
+    </a></p>
 <h3>Conteúdo do curso</h3>
 
 <h4>Unidade 1.</h4>
@@ -46,8 +50,6 @@
     <li>Herança</li>
     <li>Polimorfismo</li>
     <li>Aplicações da OO</li>
-    <li></li>
-    <li></li>
 </ul>
 <hr/>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está licenciada com uma<br/>Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.

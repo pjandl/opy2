@@ -10,12 +10,12 @@
 <p><a href='https://mybinder.org/v2/gh/pjandl/opy2/HEAD'>
     <img src='https://mybinder.org/badge_logo.svg' alt='Abrir no Binder'/>
     </a></p>
-<p><a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+<p><a href="https://colab.research.google.com/github/pjandl/opy2/blob/main/Notebooks%20U01/OP2-01-List-Comprehension.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab"/>
     </a></p>
 <h3>Conteúdo do curso</h3>
 
-<h4>Unidade 1.</h4>
+<h4><a href='https://github.com/pjandl/opy2/tree/main/Notebooks%20U01'>Unidade 1</a>.</h4>
 <ul>
     <li>List Comprehension</li>
     <li>Lambdas</li>
@@ -26,7 +26,7 @@
     <li>Lançamento de exceções</li>
 </ul>
 <hr/>
-<h4>Unidade 2.</h4>
+<h4><a href='https://github.com/pjandl/opy2/tree/main/Notebooks%20U02'>Unidade 2</a>.</h4>
 <ul>
     <li>Arquivos: abertura, fechamento</li>
     <li>Arquivos: leitura e escrita</li>
@@ -34,7 +34,7 @@
     <li>Banco de Dados: execução de comandos e consultas SQL</li>
 </ul>
 <hr/>
-<h4>Unidade 3.</h4>
+<h4><a href='https://github.com/pjandl/opy2/tree/main/Notebooks%20U03'>Unidade 3</a>.</h4>
 <ul>
     <li>Introdução a Orientação a Objetos (OO)</li>
     <li>Classes, objetos e instanciação</li>
@@ -44,7 +44,7 @@
     <li>Membros de classe e de instância</li>
 </ul>
 <hr/>
-<h4>Unidade 4.</h4>
+<h4><a href='https://github.com/pjandl/opy2/tree/main/Notebooks%20U04'>Unidade 4</a>.</h4>
 <ul>
     <li>Métodos especiais</li>
     <li>Herança</li>

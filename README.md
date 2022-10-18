@@ -1,4 +1,5 @@
 <h1>Oficina Python 2 (Intermediário)</h1>
+<h3>Prof. Peter Jandl Jr.</h3>
 <img src='https://raw.githubusercontent.com/pjandl/opy2/master/repo-cover-opy2.png' alt='![Oficina Python 2 (intermediário)]' />
 <p>Neste repositório estão disponíveis os materiais de apoio da Oficina de Python 2 (intermediário), que são:</p>
 <ul>
